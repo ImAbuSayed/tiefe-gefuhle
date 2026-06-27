@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tiefe-gefuhle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tiefe Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tiefe-gefuhle/) |
+| **Get License** | [Secure Licensing Rights for Tiefe Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tiefe-gefuhle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Im Club ist es dunkel, doch du strahlst hell wie Neonlicht
+> Zu viele Blender hier, doch mein Fokus richtet sich auf dich
+> Der harte Bass vibriert, aber dein Herzschlag ist mein Takt
+> Komm ein bisschen näher, Babe, lass uns fühlen, was die Nacht heut macht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 27, 2026 |
+| **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
