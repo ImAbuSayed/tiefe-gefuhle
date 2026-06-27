@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tiefe Gefühle
+
+This log tracks the cryptographic history and versioning for the song **Tiefe Gefühle** (tiefe-gefuhle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:01:57.616503 | `v1` | `7c0365a3455dc8c2d6de4d6b6273a1394276670b71bc58b00576f64d2b286872` | `d6219e60c33074c7241c5403073f759ce9e16ed26bbad3422e5fd8f6d03eb041` | `2026-06-28_tiefe-gefuhle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
